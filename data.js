@@ -69,6 +69,41 @@ var APP_DATA = {
       },
       "linkHotspots": [],
       "infoHotspots": []
+    },
+	    {
+      "id": "3-dji_fly_20250520_143624_0863_1747741425552_pano",
+      "name": "Panorama3",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        },
+        {
+          "tileSize": 512,
+          "size": 4096
+        }
+      ],
+      "faceSize": 3500,
+      "initialViewParameters": {
+        "yaw": 1.3028569727188248,
+        "pitch": 0.31670781015231597,
+        "fov": 1.4175088064025105
+      },
+      "linkHotspots": [],
+      "infoHotspots": []
     }
   ],
   "name": "Project Title",
