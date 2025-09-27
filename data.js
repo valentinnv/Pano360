@@ -71,7 +71,7 @@ var APP_DATA = {
       "infoHotspots": []
     },
 	    {
-      "id": "3-dji_fly_20250520_143624_0863_1747741425552_pano",
+      "id": "3-dji",
       "name": "Panorama3",
       "levels": [
         {
